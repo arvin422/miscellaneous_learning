@@ -9,3 +9,5 @@
     ```bash
     curl http://localhost:3000/poll
     ```
+
+- [Doc](https://javascript.info/long-polling)

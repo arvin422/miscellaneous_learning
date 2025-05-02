@@ -24,3 +24,5 @@
         ```javascript
         socket.send('Hello from client');
         ```
+
+- [MDN Doc](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)

@@ -9,3 +9,5 @@
     ```bash
     curl http://localhost:3000/events
     ```
+
+- [MDN Doc](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
