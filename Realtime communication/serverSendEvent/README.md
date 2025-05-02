@@ -7,5 +7,5 @@
 - Send a request to the server using curl
 
     ```bash
-    curl http://localhost:3000/poll
+    curl http://localhost:3000/events
     ```
